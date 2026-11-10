@@ -105,6 +105,7 @@ GetYourGuide has an official Claude connector for travelers booking tours and ac
 
 - [GetYourGuide on Cotlet.dev](https://cotlet.dev/integrations/getyourguide-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=getyourguide&utm_content=find)
 - [PyPI package getyourguide-mcp](https://pypi.org/project/getyourguide-mcp/)
+- [Odel](https://odel.app/modules/cotlet/getyourguide)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-getyourguide-to-ai-agents-guide)
 
 ## Also works with
